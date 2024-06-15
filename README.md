@@ -8,7 +8,7 @@ LLAMA AI Assistant is a command-line interface (CLI) application that allows use
 
 2. Chat with AI (Document): In this mode, the AI assistant can understand and answer questions based on the content of a provided document (currently supports PDF files)
 
-3. Chat with AI (Image): This mode enables you to have a conversation with the AI assistant by providing an image URL. The AI assistant can analyze the image and answer questions related to its content
+3. Chat with AI (Image): This mode enables you to have a conversation with the AI assistant by providing an image URL. The AI assistant can analyze the image and answer questions related to its content. Please input OpenAI api key, as this feature uses GPT-4o.
 
 # Installation
 
